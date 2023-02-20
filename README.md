@@ -1,2 +1,2 @@
 # datasciencecoursera
-JohnHopkinsCours
+JohnHopkinsCourse
